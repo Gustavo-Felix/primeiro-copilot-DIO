@@ -14,7 +14,7 @@ Aprendi a criar e editar um copiloto no Microsoft Copilot Studio, configurando f
 
 * Conectar/Criar uma conta Microsoft 365 [https://copilotstudio.microsoft.com/](https://copilotstudio.microsoft.com/)
 
-![Imagem da Home page Copilot](![image](https://github.com/Gustavo-Felix/primeiro-copilot-DIO/blob/main/homePage.png))
+![Imagem da Home page Copilot](![image](https://github.com/Gustavo-Felix/primeiro-copilot-DIO/blob/ceb13d3ffd8fad86482a846a71078307fb79e6f8/homePage.png))
 
 * Criando um Copilot baseado no modelo 
 Escolhendo o modelo de Viagens Seguras ou "Safe Travels"
