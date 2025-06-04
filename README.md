@@ -19,15 +19,15 @@ Aprendi a criar e editar um copiloto no Microsoft Copilot Studio, configurando f
 * Criando um Copilot baseado no modelo 
 Escolhendo o modelo de Viagens Seguras ou "Safe Travels"
 
-![Criação do Copilot](![image](https://github.com/user-attachments/assets/c610a98a-11d7-4228-a2a3-332a0bfb7571))
+<img src="CriacaodoCopilot.png" alt="Criação do Copilot">
 
 * Criando um Copilot baseado em descrição com IA
 
-![Copilot baseado no modelo Viagens Seguras ou "Safe Travels"](![image](https://github.com/user-attachments/assets/e372b014-0c2b-45bb-bcd2-5887d5996934))
+<img src="CopilotmodeloViagens.png" alt='Copilot baseado no modelo Viagens Seguras ou "Safe Travels"'>
 
 * Criando um Copilot em branco
 
-![Copilot em branco](![image](https://github.com/user-attachments/assets/2550eb89-36e2-4cfb-93c5-c751ca96aafd))
+<img src="Copilotembranco.png" alt="Copilot em branco">
 
 ## Links Importantes - Disponibilizados durante o desafio
 
